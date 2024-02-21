@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.026a5a19.css",
+    "main.js": "/react-gh-pages/static/js/main.fe25df60.js",
+    "static/js/453.7d6f1277.chunk.js": "/react-gh-pages/static/js/453.7d6f1277.chunk.js",
+    "static/media/589553.png": "/react-gh-pages/static/media/589553.88b5ebc3713af45ab67d.png",
+    "static/media/wallpapersden.com_original-avatar-movie-poster_1920x1080.jpg": "/react-gh-pages/static/media/wallpapersden.com_original-avatar-movie-poster_1920x1080.5afae42e2103b11f5531.jpg",
+    "static/media/Movie-websites-banner.jpg": "/react-gh-pages/static/media/Movie-websites-banner.0363f81d2255d67de867.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.026a5a19.css.map": "/react-gh-pages/static/css/main.026a5a19.css.map",
+    "main.fe25df60.js.map": "/react-gh-pages/static/js/main.fe25df60.js.map",
+    "453.7d6f1277.chunk.js.map": "/react-gh-pages/static/js/453.7d6f1277.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.026a5a19.css",
+    "static/js/main.fe25df60.js"
+  ]
+}
