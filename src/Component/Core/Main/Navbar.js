@@ -12,6 +12,9 @@ const Navbar = () => {
         </Link>
       </div>
       <div className="headerLeft">
+      <Link to="/search">
+          <span>Search</span>
+        </Link>
         <Link to="/movies">
           <span>Movie</span>
         </Link>

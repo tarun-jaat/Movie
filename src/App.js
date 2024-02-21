@@ -23,9 +23,9 @@ function App() {
         <Route path='/mainpage' element={<MainPage/>}/>
         <Route path="movie/:id" element={<Movie />} />
         <Route path="movies/:type" element={<MovieList />} />
-        <Route path="movies" element={<Movies/>}/>
-        <Route path='tv' element={<Tv/>}/>
-        <Route path='search' element={<Search/>}/>
+        <Route path="/movies" element={<Movies/>}/>
+        <Route path='/tv' element={<Tv/>}/>
+        <Route path='/search' element={<Search/>}/>
       </Route>
     </Routes>
     </BrowserRouter>
